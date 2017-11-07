@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hub", "Hub\Hub.csproj", "{474EC72F-DF81-4A57-8887-F6AFEB19D74C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleEventProcessor", "SimpleEventProcessor\SimpleEventProcessor.csproj", "{B9CAFF62-88FB-4E19-87C3-9664BC786438}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{474EC72F-DF81-4A57-8887-F6AFEB19D74C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{474EC72F-DF81-4A57-8887-F6AFEB19D74C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{474EC72F-DF81-4A57-8887-F6AFEB19D74C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{474EC72F-DF81-4A57-8887-F6AFEB19D74C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9CAFF62-88FB-4E19-87C3-9664BC786438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9CAFF62-88FB-4E19-87C3-9664BC786438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9CAFF62-88FB-4E19-87C3-9664BC786438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9CAFF62-88FB-4E19-87C3-9664BC786438}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {341966E3-768B-45BF-9F94-543AA4E51A0E}
+	EndGlobalSection
+EndGlobal
